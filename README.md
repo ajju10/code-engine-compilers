@@ -1,2 +1,2 @@
 # code-engine-compilers
-Compilers for Code Engine
+Base image for Code Engine with installed compiler and isolate (Sandbox)
